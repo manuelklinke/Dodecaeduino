@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Dodecaeduino",
+			"path": "."
+		},
+		{
+			"name": "Wortuhr12-24",
+			"path": "../Wortuhr12-24"
+		},
+		{
+			"name": "jiggler",
+			"path": "../jiggler"
+		}
+	],
+	"settings": {}
+}
